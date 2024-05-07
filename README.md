@@ -58,14 +58,18 @@ endmodule
 ```
 
 **RTL LOGIC UP COUNTER**
+
 ![328450512-ba5f33f2-0a46-4071-9de6-4f05e2d4caa6](https://github.com/JOHNSUBIK/SYNCHRONOUS-UP-COUNTER/assets/150279319/16845730-c5a8-4aa6-ab6e-6c4e27ad48bb)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
 ![328450615-b932b6cd-aa6e-4078-a348-235a71978f13](https://github.com/JOHNSUBIK/SYNCHRONOUS-UP-COUNTER/assets/150279319/3b7bcfeb-4c73-45d0-a481-84dde6d18570)
 
 **TRUTH TABLE**
+
 ![328450787-c2bda272-5c6f-4c93-91f0-7f4783432c7d](https://github.com/JOHNSUBIK/SYNCHRONOUS-UP-COUNTER/assets/150279319/4f9d6e9f-f80d-41d5-8817-d5d842ab801e)
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly.
 
